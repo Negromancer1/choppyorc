@@ -1,5 +1,5 @@
 _autosplitter = (function () {
-	var chestsInLevel = [2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 1, 2, 1, 1, 1];
+	var chestsInLevel = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 
 	var decimal_places_display = TAS_MODE ? 3 : 2;
 
